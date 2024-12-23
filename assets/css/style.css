@@ -1030,7 +1030,7 @@ body .body-overlay {
 .portfolio-items .portfolio-item .portfolio-item-inner {
     height: 370px;
     overflow: hidden;
-    border-radius: 30px;
+
     position: relative;
     margin-bottom: 30px;
 }
